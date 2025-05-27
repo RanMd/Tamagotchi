@@ -1,6 +1,6 @@
 # Tamagotchi
 
-## Instrucciones para ejecutar el juego en Linux
+## Como ejecutar el juego
 
 1. **Compilar los archivos Java**
 
@@ -27,3 +27,22 @@
   ```
 
 ¡Listo! El juego debería iniciarse correctamente.
+
+4. **Capturas de pantalla**
+
+<p align="center">
+  <img src="doc/Home.png" width="400" title="Tamagotchi in home">
+</p>
+
+<p align="center">
+  <img src="doc/Data.png" width="400" title="Tamagotchi in home">
+</p>
+
+<p align="center">
+  <img src="doc/Data.png" width="400" title="Tamagotchi in home">
+</p>
+
+<p align="center">
+  <img src="doc/Eating.png" width="400" title="Tamagotchi in home">
+</p>
+
